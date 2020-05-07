@@ -1,0 +1,104 @@
+body{
+	margin: auto;
+	padding: auto;
+	display: row;
+	background-color: #818181;
+}
+header{
+	width: 1000px;
+	height: 90px;
+	background-color: #042425;
+	margin-left: 160px;
+	//margin-top: -10px;
+}
+h1{
+	color: #f8fdfd;
+	text-align: center;
+}
+.logo{
+	margin-top: -50px;
+}
+.milieu{
+	//border:solid 5px red;
+	width: 1000px;
+	height: 670px;
+	margin-left: 160px;
+	//margin-top: 20px;
+	//background-color: #3addd6;
+	background-image: url(img-bg.JPG);
+	
+}
+.haut{
+	width: 500px;
+	height: 80px;
+	background-color: #51bfd0;
+	//margin-left: 40px;
+
+}
+.connexion{
+	//border:5px blue;
+	width: 500px;
+	height: 400px;
+	background-color: #f8fdfd;
+	margin-top: -580px;
+	margin-left: 400px;
+	
+}
+.logo2{
+	width: 50px;
+	height: 40px;
+	margin-left: 430px;
+	margin-top: 05px;
+}
+.title1{
+	color: #f8fdfd;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.login{
+	width: 430px;
+	height: 50px;
+	border-radius: 8px;
+	margin-top: 30px;
+	margin-left: 25px;
+}
+input{
+	color: #818181;
+	font-size: 20px;
+	font-family: 'centary gothic'
+
+}
+.img{
+	margin-right: 20px;
+}
+.img2{
+	margin-top: 10px;
+}
+#buttom{
+	width: 25px;
+	height: 20px;
+	background-color: rgb(240,240,240,0,6);
+	border-radius: 7px;
+	margin-bottom: -21px;
+	opacity: .9
+	
+}
+.buttom3{
+	width: 120px;
+	height: 40px;
+	background-color: #51bfd0;
+	margin-top: 20px;
+	margin-left: 30px;
+	background-color: rgb(240,240,240,0,6);
+	border-radius: 7px;
+	font-size: 20px;
+	font-family: 'centary gothic'
+	color: white;
+	text-align: center;
+}
+span{
+	margin-left: 40px;
+	color: #818181;
+	font-family: 'centary gothic'
+	font-size: 40px;
+}
